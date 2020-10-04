@@ -1,2 +1,5 @@
 * [Home](/)
 * [Pro/Con](procon.md)
+* [Alternatives](alternatives.md)
+* [Data Structure](data.md)
+* [Video](video.md)
