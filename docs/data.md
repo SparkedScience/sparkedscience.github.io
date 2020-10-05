@@ -5,3 +5,5 @@ Docsify is a bit different from all the other options. Some of the other solutio
 ![hierarchy example](./Pictures/hierarch.png)
 
 This is this site's hierarchy. All pictures live in the Pictures directory. The rest of the files make up the navigation bar and the pages. When a link is clicked in the side bar, Docsify requests the markdown file as a webpage, and the content is rendered. Nothing complicated is going on with UUIDs or numbered folders; only the file path is needed.
+
+![hierarchy example](./hierarch.png)
